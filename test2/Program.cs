@@ -10,7 +10,7 @@ namespace test2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hej Codesion !");
+            Console.WriteLine("Hej Codesion & Bitbucket !");
             Console.WriteLine("and goodbye !");
         }
     }
