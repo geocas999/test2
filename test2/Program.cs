@@ -14,6 +14,7 @@ namespace test2
             Console.WriteLine("Hej Codesion & Bitbucket !");
             Console.WriteLine("and goodbye !");
             Console.WriteLine("FriiiiiiiDaaaaaaaaaY Yeeeeeh");
+            Greeter.Goodbye();
         }
 
     }
